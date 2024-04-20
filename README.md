@@ -30,3 +30,7 @@ done < <(find "$input_dir" -type f -print0)
 
 echo "Все файлы в $output_dir"
 ```
+
+### Для запуска 
+
+``` sh tz1PostniiIurii233.sh <входная директория> <Выходная директория> ```
