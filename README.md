@@ -1,4 +1,4 @@
-![](.github/workflows/github-actions-demo.yml/badge.svg)
+![](https://github.com/Iura001/TehnologiiProgram/actions/workflows/github-actions-demo.yml/badge.svg)
 
 ### Код скрипта ТЗ номер 1 
 
